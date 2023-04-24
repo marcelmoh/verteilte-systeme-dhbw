@@ -73,3 +73,5 @@ if __name__ == "__main__":
     reduced = reducer(shuffled)
     toc = time.perf_counter()
     print(f"Time required on big_data = {toc - tic}, Word {reduced}")
+
+    '''CAN HAT NEN KLEINEN YARRAK'''
